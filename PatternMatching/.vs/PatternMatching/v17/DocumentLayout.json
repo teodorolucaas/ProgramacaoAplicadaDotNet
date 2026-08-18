@@ -1,69 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\OneDrive\\UNIP\\Disciplinas\\ProgramacaoAplicadaDotNet\\Aulas\\Desenvolvimento\\PatternMatching\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{8AF51E9D-96C0-44AC-A810-C6AF0A731FBB}|PatternMatching.csproj|d:\\onedrive\\unip\\disciplinas\\programacaoaplicadadotnet\\aulas\\desenvolvimento\\patternmatching\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AF51E9D-96C0-44AC-A810-C6AF0A731FBB}|PatternMatching.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AF51E9D-96C0-44AC-A810-C6AF0A731FBB}|PatternMatching.csproj|d:\\onedrive\\unip\\disciplinas\\programacaoaplicadadotnet\\aulas\\desenvolvimento\\patternmatching\\desenvolvedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AF51E9D-96C0-44AC-A810-C6AF0A731FBB}|PatternMatching.csproj|solutionrelative:desenvolvedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AF51E9D-96C0-44AC-A810-C6AF0A731FBB}|PatternMatching.csproj|d:\\onedrive\\unip\\disciplinas\\programacaoaplicadadotnet\\aulas\\desenvolvimento\\patternmatching\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AF51E9D-96C0-44AC-A810-C6AF0A731FBB}|PatternMatching.csproj|solutionrelative:funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Desenvolvedor.cs",
-              "DocumentMoniker": "D:\\OneDrive\\UNIP\\Disciplinas\\ProgramacaoAplicadaDotNet\\Aulas\\Desenvolvimento\\PatternMatching\\Desenvolvedor.cs",
-              "RelativeDocumentMoniker": "Desenvolvedor.cs",
-              "ToolTip": "D:\\OneDrive\\UNIP\\Disciplinas\\ProgramacaoAplicadaDotNet\\Aulas\\Desenvolvimento\\PatternMatching\\Desenvolvedor.cs",
-              "RelativeToolTip": "Desenvolvedor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-17T16:20:26.431Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Funcionario.cs",
-              "DocumentMoniker": "D:\\OneDrive\\UNIP\\Disciplinas\\ProgramacaoAplicadaDotNet\\Aulas\\Desenvolvimento\\PatternMatching\\Funcionario.cs",
-              "RelativeDocumentMoniker": "Funcionario.cs",
-              "ToolTip": "D:\\OneDrive\\UNIP\\Disciplinas\\ProgramacaoAplicadaDotNet\\Aulas\\Desenvolvimento\\PatternMatching\\Funcionario.cs",
-              "RelativeToolTip": "Funcionario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-17T16:20:24.846Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\OneDrive\\UNIP\\Disciplinas\\ProgramacaoAplicadaDotNet\\Aulas\\Desenvolvimento\\PatternMatching\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\OneDrive\\UNIP\\Disciplinas\\ProgramacaoAplicadaDotNet\\Aulas\\Desenvolvimento\\PatternMatching\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAwwAQAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-17T16:16:31.675Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
