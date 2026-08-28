@@ -1,0 +1,15 @@
+D:\OneDrive\UNIP\Disciplinas\ProgramacaoAplicadaDotNet\Aulas\Desenvolvimento\Reflection_Attributes\bin\Debug\net9.0\Reflection_Attributes.exe
+D:\OneDrive\UNIP\Disciplinas\ProgramacaoAplicadaDotNet\Aulas\Desenvolvimento\Reflection_Attributes\bin\Debug\net9.0\Reflection_Attributes.deps.json
+D:\OneDrive\UNIP\Disciplinas\ProgramacaoAplicadaDotNet\Aulas\Desenvolvimento\Reflection_Attributes\bin\Debug\net9.0\Reflection_Attributes.runtimeconfig.json
+D:\OneDrive\UNIP\Disciplinas\ProgramacaoAplicadaDotNet\Aulas\Desenvolvimento\Reflection_Attributes\bin\Debug\net9.0\Reflection_Attributes.dll
+D:\OneDrive\UNIP\Disciplinas\ProgramacaoAplicadaDotNet\Aulas\Desenvolvimento\Reflection_Attributes\bin\Debug\net9.0\Reflection_Attributes.pdb
+D:\OneDrive\UNIP\Disciplinas\ProgramacaoAplicadaDotNet\Aulas\Desenvolvimento\Reflection_Attributes\obj\Debug\net9.0\Reflection_Attributes.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\UNIP\Disciplinas\ProgramacaoAplicadaDotNet\Aulas\Desenvolvimento\Reflection_Attributes\obj\Debug\net9.0\Reflection_Attributes.AssemblyInfoInputs.cache
+D:\OneDrive\UNIP\Disciplinas\ProgramacaoAplicadaDotNet\Aulas\Desenvolvimento\Reflection_Attributes\obj\Debug\net9.0\Reflection_Attributes.AssemblyInfo.cs
+D:\OneDrive\UNIP\Disciplinas\ProgramacaoAplicadaDotNet\Aulas\Desenvolvimento\Reflection_Attributes\obj\Debug\net9.0\Reflection_Attributes.csproj.CoreCompileInputs.cache
+D:\OneDrive\UNIP\Disciplinas\ProgramacaoAplicadaDotNet\Aulas\Desenvolvimento\Reflection_Attributes\obj\Debug\net9.0\Reflection_Attributes.sourcelink.json
+D:\OneDrive\UNIP\Disciplinas\ProgramacaoAplicadaDotNet\Aulas\Desenvolvimento\Reflection_Attributes\obj\Debug\net9.0\Reflection_Attributes.dll
+D:\OneDrive\UNIP\Disciplinas\ProgramacaoAplicadaDotNet\Aulas\Desenvolvimento\Reflection_Attributes\obj\Debug\net9.0\refint\Reflection_Attributes.dll
+D:\OneDrive\UNIP\Disciplinas\ProgramacaoAplicadaDotNet\Aulas\Desenvolvimento\Reflection_Attributes\obj\Debug\net9.0\Reflection_Attributes.pdb
+D:\OneDrive\UNIP\Disciplinas\ProgramacaoAplicadaDotNet\Aulas\Desenvolvimento\Reflection_Attributes\obj\Debug\net9.0\Reflection_Attributes.genruntimeconfig.cache
+D:\OneDrive\UNIP\Disciplinas\ProgramacaoAplicadaDotNet\Aulas\Desenvolvimento\Reflection_Attributes\obj\Debug\net9.0\ref\Reflection_Attributes.dll
