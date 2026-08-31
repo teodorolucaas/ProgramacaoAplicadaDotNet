@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\UNIP\\Disciplinas\\ProgramacaoAplicadaDotNet\\Aulas\\Desenvolvimento\\DTO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1297F8BE-6FAA-4D4D-BD37-ED1CA79D805A}|DTO.csproj|d:\\onedrive\\unip\\disciplinas\\programacaoaplicadadotnet\\aulas\\desenvolvimento\\dto\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1297F8BE-6FAA-4D4D-BD37-ED1CA79D805A}|DTO.csproj|solutionrelative:controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1297F8BE-6FAA-4D4D-BD37-ED1CA79D805A}|DTO.csproj|d:\\onedrive\\unip\\disciplinas\\programacaoaplicadadotnet\\aulas\\desenvolvimento\\dto\\dto\\boletimalunodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1297F8BE-6FAA-4D4D-BD37-ED1CA79D805A}|DTO.csproj|solutionrelative:dto\\boletimalunodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1297F8BE-6FAA-4D4D-BD37-ED1CA79D805A}|DTO.csproj|d:\\onedrive\\unip\\disciplinas\\programacaoaplicadadotnet\\aulas\\desenvolvimento\\dto\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1297F8BE-6FAA-4D4D-BD37-ED1CA79D805A}|DTO.csproj|solutionrelative:models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1297F8BE-6FAA-4D4D-BD37-ED1CA79D805A}|DTO.csproj|d:\\onedrive\\unip\\disciplinas\\programacaoaplicadadotnet\\aulas\\desenvolvimento\\dto\\dto\\lancarnotadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1297F8BE-6FAA-4D4D-BD37-ED1CA79D805A}|DTO.csproj|solutionrelative:dto\\lancarnotadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1297F8BE-6FAA-4D4D-BD37-ED1CA79D805A}|DTO.csproj|d:\\onedrive\\unip\\disciplinas\\programacaoaplicadadotnet\\aulas\\desenvolvimento\\dto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1297F8BE-6FAA-4D4D-BD37-ED1CA79D805A}|DTO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1297F8BE-6FAA-4D4D-BD37-ED1CA79D805A}|DTO.csproj|d:\\onedrive\\unip\\disciplinas\\programacaoaplicadadotnet\\aulas\\desenvolvimento\\dto\\dto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1297F8BE-6FAA-4D4D-BD37-ED1CA79D805A}|DTO.csproj|solutionrelative:dto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LancarNotaDto.cs",
+              "DocumentMoniker": "D:\\OneDrive\\UNIP\\Disciplinas\\ProgramacaoAplicadaDotNet\\Aulas\\Desenvolvimento\\DTO\\DTO\\LancarNotaDto.cs",
+              "RelativeDocumentMoniker": "DTO\\LancarNotaDto.cs",
+              "ToolTip": "D:\\OneDrive\\UNIP\\Disciplinas\\ProgramacaoAplicadaDotNet\\Aulas\\Desenvolvimento\\DTO\\DTO\\LancarNotaDto.cs",
+              "RelativeToolTip": "DTO\\LancarNotaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T19:44:17.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BoletimAlunoDto.cs",
+              "DocumentMoniker": "D:\\OneDrive\\UNIP\\Disciplinas\\ProgramacaoAplicadaDotNet\\Aulas\\Desenvolvimento\\DTO\\DTO\\BoletimAlunoDto.cs",
+              "RelativeDocumentMoniker": "DTO\\BoletimAlunoDto.cs",
+              "ToolTip": "D:\\OneDrive\\UNIP\\Disciplinas\\ProgramacaoAplicadaDotNet\\Aulas\\Desenvolvimento\\DTO\\DTO\\BoletimAlunoDto.cs",
+              "RelativeToolTip": "DTO\\BoletimAlunoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T19:36:33.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DTO.csproj",
+              "DocumentMoniker": "D:\\OneDrive\\UNIP\\Disciplinas\\ProgramacaoAplicadaDotNet\\Aulas\\Desenvolvimento\\DTO\\DTO.csproj",
+              "RelativeDocumentMoniker": "DTO.csproj",
+              "ToolTip": "D:\\OneDrive\\UNIP\\Disciplinas\\ProgramacaoAplicadaDotNet\\Aulas\\Desenvolvimento\\DTO\\DTO.csproj",
+              "RelativeToolTip": "DTO.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-31T17:43:33.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "D:\\OneDrive\\UNIP\\Disciplinas\\ProgramacaoAplicadaDotNet\\Aulas\\Desenvolvimento\\DTO\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "Models\\Aluno.cs",
+              "ToolTip": "D:\\OneDrive\\UNIP\\Disciplinas\\ProgramacaoAplicadaDotNet\\Aulas\\Desenvolvimento\\DTO\\Models\\Aluno.cs",
+              "RelativeToolTip": "Models\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T17:30:35.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive\\UNIP\\Disciplinas\\ProgramacaoAplicadaDotNet\\Aulas\\Desenvolvimento\\DTO\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\OneDrive\\UNIP\\Disciplinas\\ProgramacaoAplicadaDotNet\\Aulas\\Desenvolvimento\\DTO\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T17:30:08.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "D:\\OneDrive\\UNIP\\Disciplinas\\ProgramacaoAplicadaDotNet\\Aulas\\Desenvolvimento\\DTO\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AlunoController.cs",
+              "ToolTip": "D:\\OneDrive\\UNIP\\Disciplinas\\ProgramacaoAplicadaDotNet\\Aulas\\Desenvolvimento\\DTO\\Controllers\\AlunoController.cs",
+              "RelativeToolTip": "Controllers\\AlunoController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T17:29:53.582Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
