@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imutabilidade", "Imutabilidade.csproj", "{D49AC5B6-34D6-4749-A7A7-202CD19815EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D49AC5B6-34D6-4749-A7A7-202CD19815EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D49AC5B6-34D6-4749-A7A7-202CD19815EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D49AC5B6-34D6-4749-A7A7-202CD19815EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D49AC5B6-34D6-4749-A7A7-202CD19815EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03F1E201-DBA1-4C64-AE4B-A072A3020973}
+	EndGlobalSection
+EndGlobal

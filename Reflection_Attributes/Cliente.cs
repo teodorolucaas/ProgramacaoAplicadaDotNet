@@ -10,6 +10,7 @@ namespace Reflection_Attributes
     {
         public string Nome { get; set; }
         public int Idade { get; set; }
+        [Exibir]
         public double Saldo { get; set; }
     }
 }

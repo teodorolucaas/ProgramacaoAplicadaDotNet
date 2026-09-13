@@ -40,6 +40,12 @@ namespace DTO.Controllers
             Situacao = alunos[0].Notas.Average() >= 7 ? "Aprovado" : "Reprovado"
         };
 
+        private static ResumoInsereNotaDto resumo = new ResumoInsereNotaDto
+        {
+            Nome = alunos[0].Nome,
+            Matricula = alunos[0].Matricula
+        };
+
         [HttpGet]
         public ActionResult<List<Aluno>> Get()
         {
@@ -55,8 +61,8 @@ namespace DTO.Controllers
         [HttpPost]
         public ActionResult LancarNota(LancarNotaDto dto)
         {
-            
-            Aluno aluno = alunos.FirstOrDefault(a => a.Id == dto.AlunoId);
+
+             Aluno aluno = alunos.FirstOrDefault(a => a.Id == dto.AlunoId);
 
             if (aluno == null)
             {
@@ -66,7 +72,9 @@ namespace DTO.Controllers
             aluno.Notas.Add(dto.Nota);
             boletim.Media = alunos[0].Notas.Average();
 
-            return Ok(boletim);
+            return Ok(resumo);
+
+            //return Ok();
         }
     }
 }

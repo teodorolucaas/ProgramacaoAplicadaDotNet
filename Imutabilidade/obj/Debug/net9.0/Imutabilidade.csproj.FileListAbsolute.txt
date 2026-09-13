@@ -1,0 +1,15 @@
+C:\Users\Administrador\OneDrive\UNIP\Disciplinas\ProgramacaoAplicadaDotNet\Aulas\Desenvolvimento\Imutabilidade\obj\Debug\net9.0\Imutabilidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\OneDrive\UNIP\Disciplinas\ProgramacaoAplicadaDotNet\Aulas\Desenvolvimento\Imutabilidade\obj\Debug\net9.0\Imutabilidade.AssemblyInfoInputs.cache
+C:\Users\Administrador\OneDrive\UNIP\Disciplinas\ProgramacaoAplicadaDotNet\Aulas\Desenvolvimento\Imutabilidade\obj\Debug\net9.0\Imutabilidade.AssemblyInfo.cs
+C:\Users\Administrador\OneDrive\UNIP\Disciplinas\ProgramacaoAplicadaDotNet\Aulas\Desenvolvimento\Imutabilidade\obj\Debug\net9.0\Imutabilidade.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\OneDrive\UNIP\Disciplinas\ProgramacaoAplicadaDotNet\Aulas\Desenvolvimento\Imutabilidade\obj\Debug\net9.0\Imutabilidade.sourcelink.json
+C:\Users\Administrador\OneDrive\UNIP\Disciplinas\ProgramacaoAplicadaDotNet\Aulas\Desenvolvimento\Imutabilidade\bin\Debug\net9.0\Imutabilidade.exe
+C:\Users\Administrador\OneDrive\UNIP\Disciplinas\ProgramacaoAplicadaDotNet\Aulas\Desenvolvimento\Imutabilidade\bin\Debug\net9.0\Imutabilidade.deps.json
+C:\Users\Administrador\OneDrive\UNIP\Disciplinas\ProgramacaoAplicadaDotNet\Aulas\Desenvolvimento\Imutabilidade\bin\Debug\net9.0\Imutabilidade.runtimeconfig.json
+C:\Users\Administrador\OneDrive\UNIP\Disciplinas\ProgramacaoAplicadaDotNet\Aulas\Desenvolvimento\Imutabilidade\bin\Debug\net9.0\Imutabilidade.dll
+C:\Users\Administrador\OneDrive\UNIP\Disciplinas\ProgramacaoAplicadaDotNet\Aulas\Desenvolvimento\Imutabilidade\bin\Debug\net9.0\Imutabilidade.pdb
+C:\Users\Administrador\OneDrive\UNIP\Disciplinas\ProgramacaoAplicadaDotNet\Aulas\Desenvolvimento\Imutabilidade\obj\Debug\net9.0\Imutabilidade.dll
+C:\Users\Administrador\OneDrive\UNIP\Disciplinas\ProgramacaoAplicadaDotNet\Aulas\Desenvolvimento\Imutabilidade\obj\Debug\net9.0\refint\Imutabilidade.dll
+C:\Users\Administrador\OneDrive\UNIP\Disciplinas\ProgramacaoAplicadaDotNet\Aulas\Desenvolvimento\Imutabilidade\obj\Debug\net9.0\Imutabilidade.pdb
+C:\Users\Administrador\OneDrive\UNIP\Disciplinas\ProgramacaoAplicadaDotNet\Aulas\Desenvolvimento\Imutabilidade\obj\Debug\net9.0\Imutabilidade.genruntimeconfig.cache
+C:\Users\Administrador\OneDrive\UNIP\Disciplinas\ProgramacaoAplicadaDotNet\Aulas\Desenvolvimento\Imutabilidade\obj\Debug\net9.0\ref\Imutabilidade.dll

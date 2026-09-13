@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\OneDrive\\UNIP\\Disciplinas\\ProgramacaoAplicadaDotNet\\Aulas\\Desenvolvimento\\Imutabilidade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D49AC5B6-34D6-4749-A7A7-202CD19815EA}|Imutabilidade.csproj|c:\\users\\administrador\\onedrive\\unip\\disciplinas\\programacaoaplicadadotnet\\aulas\\desenvolvimento\\imutabilidade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49AC5B6-34D6-4749-A7A7-202CD19815EA}|Imutabilidade.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49AC5B6-34D6-4749-A7A7-202CD19815EA}|Imutabilidade.csproj|c:\\users\\administrador\\onedrive\\unip\\disciplinas\\programacaoaplicadadotnet\\aulas\\desenvolvimento\\imutabilidade\\alunoresumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49AC5B6-34D6-4749-A7A7-202CD19815EA}|Imutabilidade.csproj|solutionrelative:alunoresumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49AC5B6-34D6-4749-A7A7-202CD19815EA}|Imutabilidade.csproj|c:\\users\\administrador\\onedrive\\unip\\disciplinas\\programacaoaplicadadotnet\\aulas\\desenvolvimento\\imutabilidade\\alunoresumorecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49AC5B6-34D6-4749-A7A7-202CD19815EA}|Imutabilidade.csproj|solutionrelative:alunoresumorecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlunoResumoRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive\\UNIP\\Disciplinas\\ProgramacaoAplicadaDotNet\\Aulas\\Desenvolvimento\\Imutabilidade\\AlunoResumoRecord.cs",
+              "RelativeDocumentMoniker": "AlunoResumoRecord.cs",
+              "ToolTip": "C:\\Users\\Administrador\\OneDrive\\UNIP\\Disciplinas\\ProgramacaoAplicadaDotNet\\Aulas\\Desenvolvimento\\Imutabilidade\\AlunoResumoRecord.cs",
+              "RelativeToolTip": "AlunoResumoRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T00:23:11.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlunoResumo.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive\\UNIP\\Disciplinas\\ProgramacaoAplicadaDotNet\\Aulas\\Desenvolvimento\\Imutabilidade\\AlunoResumo.cs",
+              "RelativeDocumentMoniker": "AlunoResumo.cs",
+              "ToolTip": "C:\\Users\\Administrador\\OneDrive\\UNIP\\Disciplinas\\ProgramacaoAplicadaDotNet\\Aulas\\Desenvolvimento\\Imutabilidade\\AlunoResumo.cs",
+              "RelativeToolTip": "AlunoResumo.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T23:53:35.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive\\UNIP\\Disciplinas\\ProgramacaoAplicadaDotNet\\Aulas\\Desenvolvimento\\Imutabilidade\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrador\\OneDrive\\UNIP\\Disciplinas\\ProgramacaoAplicadaDotNet\\Aulas\\Desenvolvimento\\Imutabilidade\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T23:52:40.698Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
