@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "API_Evolucao_TesteIntegracao.Controllers.LivrosController",
+    "Method": "Listar",
+    "RelativePath": "api/livros",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Evolucao_TesteIntegracao.Controllers.LivrosController",
+    "Method": "ListarV2",
+    "RelativePath": "api/v2/livros",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

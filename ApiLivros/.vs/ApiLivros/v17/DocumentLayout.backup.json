@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\UNIP\\Disciplinas\\ProgramacaoAplicadaDotNet\\Aulas\\Desenvolvimento\\ApiLivros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB69342A-7ED2-42D2-BFE1-F8E6445DDA1A}|..\\TesteIntegracao\\TesteIntegracao.csproj|d:\\onedrive\\unip\\disciplinas\\programacaoaplicadadotnet\\aulas\\desenvolvimento\\testeintegracao\\testeintegracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76FE87C-38BF-4041-A720-3C88A42EBA3A}|ApiLivros.csproj|d:\\onedrive\\unip\\disciplinas\\programacaoaplicadadotnet\\aulas\\desenvolvimento\\apilivros\\controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76FE87C-38BF-4041-A720-3C88A42EBA3A}|ApiLivros.csproj|solutionrelative:controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LivrosController.cs",
+              "DocumentMoniker": "D:\\OneDrive\\UNIP\\Disciplinas\\ProgramacaoAplicadaDotNet\\Aulas\\Desenvolvimento\\ApiLivros\\Controllers\\LivrosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LivrosController.cs",
+              "ToolTip": "D:\\OneDrive\\UNIP\\Disciplinas\\ProgramacaoAplicadaDotNet\\Aulas\\Desenvolvimento\\ApiLivros\\Controllers\\LivrosController.cs",
+              "RelativeToolTip": "Controllers\\LivrosController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwC8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T20:51:17.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TesteIntegracao.cs",
+              "DocumentMoniker": "D:\\OneDrive\\UNIP\\Disciplinas\\ProgramacaoAplicadaDotNet\\Aulas\\Desenvolvimento\\TesteIntegracao\\TesteIntegracao.cs",
+              "RelativeDocumentMoniker": "..\\TesteIntegracao\\TesteIntegracao.cs",
+              "ToolTip": "D:\\OneDrive\\UNIP\\Disciplinas\\ProgramacaoAplicadaDotNet\\Aulas\\Desenvolvimento\\TesteIntegracao\\TesteIntegracao.cs",
+              "RelativeToolTip": "..\\TesteIntegracao\\TesteIntegracao.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T20:50:51.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
